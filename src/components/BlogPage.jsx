@@ -118,9 +118,9 @@ const BlogPage = () => {
     <div className="min-h-screen flex flex-col bg-[#180018]">
       <Navbar logo={logo} />
       <main className="flex-grow pt-[190px]">
-        <div className="text-center py-16">
-          <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">Blogs</h1>
-          <p className="text-gray-300 max-w-5xl mx-auto px-4">
+        <div className="text-center py-16 gap-34px">
+          <h1 className="text-[70px] md:text-5xl font-bold text-white mb-4">Blogs</h1>
+          <p className="text-[#FBE5D8] text-[25px] max-w-8xl mx-auto px-4 mt-12 font-afacad whitespace-nowrap">
             Read more about latest news from Expanish destinations, or get tips on how to prepare to study Spanish at our language schools.
           </p>
         </div>
