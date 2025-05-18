@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer
       className="text-white py-12 px-4"
-      style={{ backgroundColor: "#201022", height: "502px", width: "1530px" }}
+      style={{ backgroundColor: "#201022", height: "502px", width: "1520px" }}
     >
       <div className="container mx-auto h-full flex flex-col justify-center">
         <div className="flex h-full">
