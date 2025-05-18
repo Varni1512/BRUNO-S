@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="container mx-auto h-full flex flex-col justify-center">
         <div className="flex h-full">
           {/* Left column: Logo + Quote */}
-          <div className="flex flex-col justify-start items-start px-4" style={{ flex: "1" }}>
+          <div className="flex flex-col justify-start items-center px-4" style={{ flex: "1" }}>
             <div className="mb-4 justify-center items-center ">
               <img
                 src="/logo.png"
